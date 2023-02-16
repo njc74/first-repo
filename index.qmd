@@ -1,0 +1,13 @@
+---
+title: "Week 4 Exercise"
+format:
+  html: 
+    self-contained: true
+
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+```
